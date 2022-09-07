@@ -1,6 +1,8 @@
 # ETpython-monitor
 Enemy Territory Python Monitor using pyq3serverlist library https://pypi.org/project/pyq3serverlist/
 
+Requirements: Python3, pyq3serverlist
+
 It runs python for easy Discord Bot integration. Can be run in CLI.
 
 Replace "localhost:27960" if needed.
