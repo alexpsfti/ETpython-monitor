@@ -5,7 +5,7 @@ It runs python for easy Discord Bot integration. Can be run in CLI.
 
 Replace "localhost:27960" if needed.
 
-# exemple output:
+# Exemple output:
 
 ./etmonitor
 
